@@ -1,4 +1,4 @@
-package com.skillnext;
+package com.skillnext1;
 
 public class Student {
     private int id;
