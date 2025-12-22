@@ -1,0 +1,5 @@
+# Maven build output
+target/
+
+# Ignore nested project
+MAVNE_PROJECTS/hibernate-employee/
